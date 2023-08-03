@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-Site Link: https://vercel.com/kohicha/stats-preview-card-component-main-kohi-solution
+Site Link: https://3-column-preview-card-component-main-kohis-solution.vercel.app
 
 ### Built with
 
